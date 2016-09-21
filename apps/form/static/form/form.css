@@ -1,0 +1,24 @@
+
+
+.form{
+	border: solid 1px black;
+	padding: 20px;
+	font-family: arial;
+	width: 500px;
+	margin-top: 15px;
+}
+
+#submitted{
+	border: solid 1px black;
+	padding: 20px;
+	font-family: arial;
+	width: 500px;
+	margin-top: 15px;
+	background-color: green;
+	margin-bottom: 25px;
+	min-height: 100px;
+}
+
+input {
+	margin-bottom: 15px;
+}
